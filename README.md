@@ -1,4 +1,4 @@
-# TestBed
+# TestBed for Eclipse
 Песочница для запуска консольных Java-программ под Android
 
 
